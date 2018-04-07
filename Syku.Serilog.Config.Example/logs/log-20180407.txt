@@ -1,0 +1,1 @@
+2018-04-07 13:57:41.408 +02:00 [Fatal] Test log critical message

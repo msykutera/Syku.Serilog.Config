@@ -2,7 +2,7 @@
 using Serilog.Core;
 using Serilog.Events;
 
-namespace Syku.Serilog.DefaultConfig
+namespace Syku.Serilog.Config
 {
     public static class LoggerFactory
     {
